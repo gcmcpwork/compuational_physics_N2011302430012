@@ -3,6 +3,8 @@
 ##Self Intro
 * Guo chenming<br>
 * 2011302430012
+* School of Physics and Technology
+* Computational Physics
 <br/><br/>
 
 ##Homework
