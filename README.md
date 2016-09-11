@@ -1,7 +1,8 @@
 # compuational_physics_N2011302430012
 
-##self intro
-
+##Self Intro
+* Guo chenming<br>
+* 2011302430012
 
 
 
