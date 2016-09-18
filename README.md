@@ -3,7 +3,7 @@
 ##Self Intro
 * Chenming Guo<br>
 * 2011302430012
-* School of Physics and Technology
+* Physics
 * Computational Physics
 <br/><br/>
 
