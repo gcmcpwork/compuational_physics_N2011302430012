@@ -9,4 +9,4 @@
 
 ##Homework
 * Exercise_01:[Readme.md](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/README.md)
-* Exercise_02:[Spelling Name.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Spell%20Name.py)
+* Exercise_02:[Spelling Name.md](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Spelling%20Name.md)
