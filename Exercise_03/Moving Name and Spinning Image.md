@@ -14,7 +14,7 @@ Learn and programme with python in order to move the name horizontally and spin 
 [Movine Name.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_03/Movine%20Name.py)<br/>
 ###L2
 ![Spinning Cube](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_03/Spinning%20Cube.png)<br/>
-[Spinning Image of Cube.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_03/Spinning%20Image%20of%20Cube.py)
+[Spinning Cube.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_03/Spinning%20Cube.py)
 
 ##Conclusion
 It's very helpful for beginners to learn with Python.
