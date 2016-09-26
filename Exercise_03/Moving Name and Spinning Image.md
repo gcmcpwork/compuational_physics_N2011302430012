@@ -20,5 +20,4 @@ Learn and programme with python in order to move the name horizontally and spin 
 It's very helpful for beginners to learn with Python.
 
 ##Thanks
-Thanks to Professor Cai's guidance and help.
-And thanks to classmates for discussion.
+Thanks to Professor Cai's guidance and help. And thanks to classmates for discussion.
