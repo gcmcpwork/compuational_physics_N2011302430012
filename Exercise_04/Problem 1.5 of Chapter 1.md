@@ -19,37 +19,22 @@ The principle of the Euler method is Taylor expansion. And the routine process i
 ###Code 1
 ![Code 1](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201.png)<br/>
 [Code 1.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201.py)<br/>
-* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />=0, TA=TB=1. Result:
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />0=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />0=0, TA=TB=1. Result:
 ![Code 1 Result 1](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201%20Result%201.png)<br/>
-* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />=50, TA=TB=1. Result:
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />0=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />0=50, TA=TB=1. Result:
 ![Code 1 Result 2](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201%20Result%202.png)<br/>
-* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />=0, TA=1, TB=2. Result:
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />0=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />0=0, TA=1, TB=2. Result:
 ![Code 1 Result 3](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201%20Result%203.png)<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###Code 2
+![Code 2](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%201.png)<br/>
+[Code 2.py](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%202.py)<br/>
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />0=100, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />0=0, TA=TB=1, dt1=0.05, dt2=0.1. Result:
+![Code 2 Result 1](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%202%20Result%201.png)<br/>
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />01=100, <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />02=80, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />=0, TA=TB=1, dt1=0.05, dt2=0.05. Result:
+![Code 2 Result 2](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%202%20Result%202.png)<br/>
+* Choose <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />01=100, <img src="http://latex.codecogs.com/gif.latex?N_A" alt="" title="" />02=80, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />01=0, <img src="http://latex.codecogs.com/gif.latex?N_B" alt="" title="" />02=50, TA=TB=1, dt1=0.05, dt2=0.05. Result:
+![Code 2 Result 3](https://github.com/gcmcpwork/compuational_physics_N2011302430012/blob/master/Exercise_04/Code%202%20Result%203.png)<br/>
 <br/><br/>
 
 ##Conclusion
