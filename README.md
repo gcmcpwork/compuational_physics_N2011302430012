@@ -1,7 +1,7 @@
 # compuational_physics_N2011302430012
 
 ##Self Intro
-* Chenming Guo<br>
+* Chenming Guo
 * 2011302430012
 * Physics
 * Computational Physics
